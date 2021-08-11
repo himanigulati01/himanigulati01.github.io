@@ -147,7 +147,7 @@ h6{
       }
     }
     .nav-toggle{
-        transform: translateX(0);
+        transform: translateX(0) !important ;
         z-index: 20;
     }
   @media screen and (max-width:1200px){
