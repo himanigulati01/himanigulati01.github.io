@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/static/js/main.0459e64f.chunk.js",
+    "main.js.map": "/static/js/main.0459e64f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7480ce8b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7480ce8b.js.map",
+    "static/js/2.2ebf9b10.chunk.js": "/static/js/2.2ebf9b10.chunk.js",
+    "static/js/2.2ebf9b10.chunk.js.map": "/static/js/2.2ebf9b10.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.2ebf9b10.chunk.js.LICENSE.txt": "/static/js/2.2ebf9b10.chunk.js.LICENSE.txt",
+    "static/media/CV.bebe4993.pdf": "/static/media/CV.bebe4993.pdf",
+    "static/media/avatar.70e12912.jpg": "/static/media/avatar.70e12912.jpg",
+    "static/media/burgerBuilder.2f84c362.png": "/static/media/burgerBuilder.2f84c362.png",
+    "static/media/drumkit.29379354.png": "/static/media/drumkit.29379354.png",
+    "static/media/expense-manager.da7abc3c.png": "/static/media/expense-manager.da7abc3c.png",
+    "static/media/resume.4bd8b7f3.jpg": "/static/media/resume.4bd8b7f3.jpg",
+    "static/media/weatherapp.7650a454.png": "/static/media/weatherapp.7650a454.png",
+    "static/media/whatsappclone.783152fa.png": "/static/media/whatsappclone.783152fa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7480ce8b.js",
+    "static/js/2.2ebf9b10.chunk.js",
+    "static/js/main.0459e64f.chunk.js"
+  ]
+}
