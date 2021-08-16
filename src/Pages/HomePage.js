@@ -11,7 +11,7 @@ const HomePage = () => {
       </div>
       <div className="typography">
         <h1>
-          Hii, I am <span>Himani Gulati.</span>
+          Hi, This is <span>Himani Gulati.</span>
         </h1>
         <p>
           I am a MERN Stack developer located in New Delhi,India. I occasionally
