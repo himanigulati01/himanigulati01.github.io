@@ -52,7 +52,7 @@ const projects = [
     category: "NodeJs",
     image: weatherapp,
     link1: "https://github.com/himanigulati01/weather-app",
-    link2: "https://weather-indices-app.herokuapp.com/",
+    link2: "https://weather-indices01.herokuapp.com/",
     title: "Weather App",
     text: "First NodeJs Project.",
   },
